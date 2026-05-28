@@ -7,6 +7,13 @@ With every correct level, the sequence becomes longer and more challenging.
 
 ---
 
+<h2 align="center">🎮 Game Demo</h2>
+
+<p align="center">
+  <img src="Demo.gif" alt="Simon Game Demo" width="500" style="border:2px solid #ccc; border-radius:10px;">
+</p>
+
+
 ## 🚀 Features
 
 * Interactive color button animations
